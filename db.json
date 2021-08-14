@@ -1,0 +1,75 @@
+{
+  "tweets": [
+    {
+      "sender": {
+        "name": "sajjad ramezani",
+        "id": "@sajjadr73",
+        "img": "/images/avatar.png"
+      },
+      "text": "بهترین وعده غذایی با اختلاف زیادی صبحانست چون ممکن نیست برای #صبحانه کسی خورشت #کرفس درست کنه",
+      "likes": 255
+    },
+    {
+      "sender": {
+        "name": "samsung",
+        "id": "@samsung",
+        "img": "/images/avatar.png"
+      },
+      "text": "ولی #رفاقت اینجوری نیس که بذاریش کنار هر وقت لازم داشتی بری برش داری، ممکنه برگردی ببینی دیگه اونجا نیست !",
+      "likes": 18
+    },
+    {
+      "sender": {
+        "name": "hojjat",
+        "id": "@hojjat70",
+        "img": "/images/avatar.png"
+      },
+      "text": "دهان شماخروجی افکار شماست وقتی باز میشود سریعترین راه برای درک شخصیتتان دراختیار مخاطب قرار میگیرد مواظب ویترین شعورتان باشید، تا #افکار و وجودتان خریدارهای بیشتر داشته باشد.",
+      "likes": 99
+    },
+    {
+      "sender": {
+        "name": "بیل گیتس",
+        "id": "@billgates",
+        "img": "/images/avatar.png"
+      },
+      "text": "زندگی همچون بادکنکی است در دستان کودکی که همیشه ترس از ترکیدن آن #لذت داشتنش را از بین میبرد",
+      "likes": 15
+    }
+  ],
+  "users": [
+    {
+      "name": "sajjad ramezani",
+      "id": "sajjadr73",
+      "img": "/images/avatar.png"
+    },
+    {
+      "name": "samsung",
+      "id": "samsung",
+      "img": "/images/avatar.png"
+    },
+    {
+      "name": "hojjat",
+      "id": "hojjat70",
+      "img": "/images/avatar.png"
+    },
+    {
+      "name": "بیل گیتس",
+      "id": "billgates",
+      "img": "/images/avatar.png"
+    },
+    {
+      "name": "استقلال",
+      "id": "esteghlal",
+      "img": "/images/avatar.png"
+    }
+  ],
+  "hashtags": [
+    "آموزش_react",
+    "برنامه_نویسی",
+    "کرونا_ویروس",
+    "ویروس_دلتا",
+    "طراحی_سایت",
+    "فرانت_اند_دولوپر"
+  ]
+}
